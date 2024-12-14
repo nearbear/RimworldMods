@@ -1,0 +1,291 @@
+<Defs>
+  
+  <SoundDef>
+    <defName>AnimalsLevelUp</defName>  
+    <context>MapOnly</context> 
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Things/LevelUp/Hunter level up (even-numbered levels)</clipFolderPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>100.0</min>
+          <max>100.0</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>1</min>        
+          <max>1</max>
+        </pitchRange>      
+      </li>    
+    </subSounds>
+  </SoundDef>
+  
+  <SoundDef>
+    <defName>ArtisticLevelUp</defName>  
+    <context>MapOnly</context> 
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Things/LevelUp/Crafting level up (with unlocks)</clipFolderPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>100.0</min>
+          <max>100.0</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>1</min>        
+          <max>1</max>
+        </pitchRange>      
+      </li>    
+    </subSounds>
+  </SoundDef>
+  
+  <SoundDef>
+    <defName>ConstructionLevelUp</defName>  
+    <context>MapOnly</context> 
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Things/LevelUp/Construction level up (normal)</clipFolderPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>100.0</min>
+          <max>100.0</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>1</min>        
+          <max>1</max>
+        </pitchRange>      
+      </li>    
+    </subSounds>
+  </SoundDef>
+  
+  <SoundDef>
+    <defName>CookingLevelUp</defName>  
+    <context>MapOnly</context> 
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Things/LevelUp/Cooking level up (with unlocks)</clipFolderPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>100.0</min>
+          <max>100.0</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>1</min>        
+          <max>1</max>
+        </pitchRange>      
+      </li>    
+    </subSounds>
+  </SoundDef>
+  
+  <SoundDef>
+    <defName>CraftingLevelUp</defName>  
+    <context>MapOnly</context> 
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Things/LevelUp/Smithing level up (with unlocks)</clipFolderPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>100.0</min>
+          <max>100.0</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>1</min>        
+          <max>1</max>
+        </pitchRange>      
+      </li>    
+    </subSounds>
+  </SoundDef>
+  
+  <SoundDef>
+    <defName>IntellectualLevelUp</defName>  
+    <context>MapOnly</context> 
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Things/LevelUp/Invention</clipFolderPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>100.0</min>
+          <max>100.0</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>1</min>        
+          <max>1</max>
+        </pitchRange>      
+      </li>    
+    </subSounds>
+  </SoundDef>
+  
+  <SoundDef>
+    <defName>MedicineLevelUp</defName>  
+    <context>MapOnly</context> 
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Things/LevelUp/Hitpoints level up (levels 2-49)</clipFolderPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>100.0</min>
+          <max>100.0</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>1</min>        
+          <max>1</max>
+        </pitchRange>      
+      </li>    
+    </subSounds>
+  </SoundDef>
+  
+  <SoundDef>
+    <defName>MeleeLevelUp</defName>  
+    <context>MapOnly</context> 
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Things/LevelUp/Strength level up (levels 2-49)</clipFolderPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>100.0</min>
+          <max>100.0</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>1</min>        
+          <max>1</max>
+        </pitchRange>      
+      </li>    
+    </subSounds>
+  </SoundDef>
+  
+  <SoundDef>
+    <defName>MiningLevelUp</defName>  
+    <context>MapOnly</context> 
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Things/LevelUp/Mining level up (with unlocks)</clipFolderPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>100.0</min>
+          <max>100.0</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>1</min>        
+          <max>1</max>
+        </pitchRange>      
+      </li>    
+    </subSounds>
+  </SoundDef>
+  
+  <SoundDef>
+    <defName>PlantsLevelUp</defName>  
+    <context>MapOnly</context> 
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Things/LevelUp/Woodcutting level up (with unlocks)</clipFolderPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>100.0</min>
+          <max>100.0</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>1</min>        
+          <max>1</max>
+        </pitchRange>      
+      </li>    
+    </subSounds>
+  </SoundDef>
+  
+  <SoundDef>
+    <defName>ShootingLevelUp</defName>  
+    <context>MapOnly</context> 
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Things/LevelUp/Ranged level up (normal)</clipFolderPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>100.0</min>
+          <max>100.0</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>1</min>        
+          <max>1</max>
+        </pitchRange>      
+      </li>    
+    </subSounds>
+  </SoundDef>
+  
+  <SoundDef>
+    <defName>SocialLevelUp</defName>  
+    <context>MapOnly</context> 
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Things/LevelUp/Thieving level up (normal)</clipFolderPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>100.0</min>
+          <max>100.0</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>1</min>        
+          <max>1</max>
+        </pitchRange>      
+      </li>    
+    </subSounds>
+  </SoundDef>
+  
+</Defs>
