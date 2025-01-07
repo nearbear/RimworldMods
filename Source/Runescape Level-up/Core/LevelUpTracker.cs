@@ -49,6 +49,7 @@ namespace RunescapeLevelUp.Core
                 // LevelUp Jingle
                 SoundDef soundDef = DefDatabase<SoundDef>.GetNamed(skillName + "LevelUp");
                 SoundInfo soundInfo = new TargetInfo(pawn.Position, pawn.Map, false);
+                soundInfo.volumeFactor = Mod.settings.volumePercent / 100;
                 SoundStarter.PlayOneShot(soundDef, soundInfo);
             }
         }
